@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there
+![Contributor - Hack The Stack](https://github.com/user-attachments/assets/997b1302-8eef-4aa5-b307-244c696c0c5a)
+)
+<img src ="https://github.com/user-attachments/assets/997b1302-8eef-4aa5-b307-244c696c0c5a" width=300px height=600px>
 
 <!--
 **Sanafathima-21/Sanafathima-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
